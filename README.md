@@ -86,12 +86,7 @@ ________________________________________
 •	Segmentasi generasi: Millennials dan Gen X cenderung konversi lebih tinggi.
 •	Random Forest terpilih sebagai model terbaik berdasarkan Recall.
 ________________________________________
-## Usage
-1.	Install dependencies:
-pip install -r requirements.txt
-2.	Load dataset (bank-additional-full.xlsx).
-3.	Jalankan notebook predictive_leads_scoring.ipynb.
-4.	Lihat leaderboard model, hasil hyperparameter tuning, dan analisis cost-benefit.
+
 ________________________________________
 ## References
 •	UCI Machine Learning Repository — Bank Marketing Dataset
