@@ -111,9 +111,10 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 2. Feature engineering dan encoding data kategorikal
 3. Penanganan data tidak seimbang menggunakan SMOTE
 4. Pelatihan model machine learning (Random Forest)
-5. Penyimpanan model ke dalam file `.pkl`
-6. Deployment model menggunakan Streamlit
-7. Visualisasi dan insight bisnis menggunakan Tableau
+5. Cost benefit calculation 
+6. Penyimpanan model ke dalam file `.pkl`
+7. Deployment model menggunakan Streamlit
+8. Visualisasi dan insight bisnis menggunakan Tableau
 
 ---
 
